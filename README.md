@@ -1,1 +1,1 @@
-This is a simple project to exxercise my git knowledge by creating a repo with 4 branches,creating a files with each branch then merging them to the main branch
+This is a simple project to exercise my git knowledge by creating a repo with 4 branches,creating a files with each branch then merging them to the main branch
